@@ -1,3 +1,3 @@
 def call() {
-    sh 'echo Tejaswi'
+    bat 'echo Tejaswi'
 }
